@@ -154,6 +154,446 @@
     
     <div class="back-to-top" id="backToTop">↑</div>
 
+    <!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная - Любители кошек и собак</title>
+    <link rel="stylesheet" href="css/style-index.css">
+</head>
+<body id="index">
+   
+    <header>
+        <div class="container">
+            <h1>Информационный ресурс для любителей кошек и собак</h1>
+            <p>Всё, что нужно знать о ваших питомцах</p>
+        </div>
+    </header>
+
+    
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="index.html" class="active">Главная</a></li>
+                <li><a href="cats.html">О кошках</a></li>
+                <li><a href="dogs.html">О собаках</a></li>
+                <li><a href="about.html">О нас</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    
+    <main class="container">
+       
+        <section class="welcome-section">
+            <div class="welcome-content">
+                <h2>Добро пожаловать в мир домашних питомцев!</h2>
+                <p>Наш сайт создан для всех, кто любит кошек и собак. Здесь вы найдете полезную информацию, интересные факты и советы по уходу за вашими любимцами.</p>
+            </div>
+        </section>
+
+    
+        <section class="quick-nav">
+            <div class="nav-cards">
+                <div class="nav-card">
+                    <img src="https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Кошки">
+                    <h3>Кошки</h3>
+                    <p>Узнайте больше о грациозных и независимых кошках</p>
+                    <a href="cats.html" class="btn">Подробнее</a>
+                </div>
+                <div class="nav-card">
+                    <img src="https://images.unsplash.com/photo-1552053831-71594a27632d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Собаки">
+                    <h3>Собаки</h3>
+                    <p>Исследуйте мир преданных и верных собак</p>
+                    <a href="dogs.html" class="btn">Подробнее</a>
+                </div>
+            </div>
+        </section>
+
+        
+        <section class="main-info">
+            <div class="info-grid">
+                <div class="info-block">
+                    <h2>О кошках</h2>
+                    <p>Кошки — удивительные создания, которые уже более 10 000 лет живут рядом с человеком. Эти грациозные животные обладают независимым характером, но при этом могут быть невероятно ласковыми и преданными.</p>
+                    <ul>
+                        <li>Средняя продолжительность жизни: 12-15 лет</li>
+                        <li>Обладают отличным ночным зрением</li>
+                        <li>Могут издавать более 100 различных звуков</li>
+                        <li>Спят до 16 часов в сутки</li>
+                    </ul>
+                    <br><a href="cats.html" class="btn-outline">Узнать больше о кошках</a></br>
+                </div>
+                <div class="info-block">
+                    <h2>О собаках</h2>
+                    <p>Собаки — первые животные, domesticated человеком. Их преданность и интеллект делают их идеальными компаньонами. Собаки бывают самых разных размеров и характеров, что позволяет выбрать питомца для любой семьи.</p>
+                    <ul>
+                        <li>Средняя продолжительность жизни: 10-13 лет</li>
+                        <li>Обладают превосходным обонянием</li>
+                        <li>Понимают до 250 слов и жестов</li>
+                        <li>Нос каждой собаки уникален, как отпечаток пальца</li>
+                    </ul>
+                    <br><a href="dogs.html" class="btn-outline">Узнать больше о собаках</a></br>
+                </div>
+            </div>
+        </section>
+
+        
+        <section class="gallery-preview">
+            <h2 class="section-title">Наши любимцы</h2>
+            <div class="gallery-grid">
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1533738363-b7f9aef128ce?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Котёнок">
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1587300003388-59208cc962cb?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Щенок">
+                </div>
+                <div class="gallery-item">
+                    <img src="https://avatars.mds.yandex.net/i?id=0b29605ce469a7b3202bcfa74786d68b272d81fd-4897019-images-thumbs&n=13" alt="Кошка">
+                </div>
+                <div class="gallery-item">
+                    <img src="https://images.unsplash.com/photo-1560743641-3914f2c45636?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60" alt="Собака">
+                </div>
+            </div>
+        </section>
+    </main>
+
+    
+    <footer>
+        <div class="container">
+            <p>© 2025 Информационный ресурс для любителей кошек и собак</p>
+            <p>Все права защищены</p>
+        </div>
+    </footer>
+
+    
+    <div class="back-to-top" id="backToTop">↑</div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>О собаках - Любители кошек и собак</title>
+    <link rel="stylesheet" href="css/style-dogs.css">
+</head>
+<body id="dogs">
+   
+    <header>
+        <div class="container">
+            <h1>Всё о собаках</h1>
+            <p>Узнайте больше о преданных и верных друзьях человека</p>
+        </div>
+    </header>
+
+    
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="cats.html">О кошках</a></li>
+                <li><a href="dogs.html" class="active">О собаках</a></li>
+                <li><a href="about.html">О нас</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    
+    <main class="container">
+        
+        <section class="general-info">
+            <h2 class="section-title">Собаки - лучшие друзья человека</h2>
+            <div class="content-block">
+                <p>Собаки — самые преданные друзья человека. Они активные, умные и отлично поддаются обучению. Собаки бывают самых разных размеров и темпераментов, что позволяет выбрать питомца для любой семьи.</p>
+                
+                <div class="facts-grid">
+                    <div class="fact-item">
+                        <h3>Интеллект</h3>
+                        <p>Собаки понимают до 250 слов и жестов, счет до пяти и простые арифметические действия</p>
+                    </div>
+                    <div class="fact-item">
+                        <h3>Обоняние</h3>
+                        <p>Обоняние собаки в 10,000-100,000 раз острее человеческого</p>
+                    </div>
+                    <div class="fact-item">
+                        <h3>Преданность</h3>
+                        <p>Собаки способны формировать глубокую эмоциональную связь с хозяином</p>
+                    </div>
+                    <div class="fact-item">
+                        <h3>Разнообразие</h3>
+                        <p>Существует более 340 пород собак, признанных международными кинологическими организациями</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        
+        <section class="breeds-section">
+            <h2 class="section-title">Популярные породы собак</h2>
+            
+            <div class="breeds-grid">
+                
+                <div class="breed-card">
+                    <div class="breed-image">
+                        <img src="https://avatars.mds.yandex.net/i?id=fe61611649b3b01ee384049d4ff304cb72b7f1d8-12484816-images-thumbs&n=13" alt="Лабрадор-ретривер">
+                    </div>
+                    <div class="breed-info">
+                        <h3>Лабрадор-ретривер</h3>
+                        <p><strong>Характер:</strong> Дружелюбный, активный</p>
+                        <p><strong>Размер:</strong> Крупный</p>
+                        <p><strong>Уход:</strong> Умеренный</p>
+                        <p>Одна из самых популярных пород в мире. Идеальная семейная собака с добрым нравом и высоким интеллектом.</p>
+                    </div>
+                </div>
+
+                
+                <div class="breed-card">
+                    <div class="breed-image">
+                        <img src="https://avatars.mds.yandex.net/i?id=18f93d33368deac258fba263764d85ea3ca05d75-5423691-images-thumbs&n=13" alt="Немецкая овчарка">
+                    </div>
+                    <div class="breed-info">
+                        <h3>Немецкая овчарка</h3>
+                        <p><strong>Характер:</strong> Умный, преданный</p>
+                        <p><strong>Размер:</strong> Крупный</p>
+                        <p><strong>Уход:</strong> Регулярный</p>
+                        <p>Универсальная рабочая собака с выдающимися способностями к обучению. Часто используется в полиции и армии.</p>
+                    </div>
+                </div>
+
+                
+                <div class="breed-card">
+                    <div class="breed-image">
+                        <img src="https://avatars.mds.yandex.net/i?id=81222e0c99a026f2a7772d2ca66b32e3a5e3928f-4379221-images-thumbs&n=13" alt="Золотистый ретривер">
+                    </div>
+                    <div class="breed-info">
+                        <h3>Золотистый ретривер</h3>
+                        <p><strong>Характер:</strong> Добрый, терпеливый</p>
+                        <p><strong>Размер:</strong> Крупный</p>
+                        <p><strong>Уход:</strong> Регулярный</p>
+                        <p>Известны своим дружелюбием и терпимостью к детям. Отличные компаньоны и семейные собаки.</p>
+                    </div>
+                </div>
+
+                
+                <div class="breed-card">
+                    <div class="breed-image">
+                        <img src="https://avatars.mds.yandex.net/i?id=2ddbdb72b0d3614847fedcb07067675048d23037-9048286-images-thumbs&n=13" alt="Французский бульдог">
+                    </div>
+                    <div class="breed-info">
+                        <h3>Французский бульдог</h3>
+                        <p><strong>Характер:</strong> Весёлый, компанейский</p>
+                        <p><strong>Размер:</strong> Малый</p>
+                        <p><strong>Уход:</strong> Минимальный</p>
+                        <p>Компактные собаки с большим характером. Идеально подходят для содержания в квартире.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        
+        <section class="care-tips">
+            <h2 class="section-title">Советы по уходу за собаками</h2>
+            <div class="tips-grid">
+                <div class="tip-card">
+                    <h3>Питание</h3>
+                    <p>Собаке необходим сбалансированный рацион, соответствующий её возрасту, размеру и уровню активности. Всегда обеспечивайте доступ к свежей воде.</p>
+                </div>
+                <div class="tip-card">
+                    <h3>Здоровье</h3>
+                    <p>Регулярные визиты к ветеринару, вакцинация и профилактика паразитов обязательны. Следите за состоянием ушей, зубов и когтей.</p>
+                </div>
+                <div class="tip-card">
+                    <h3>Обучение</h3>
+                    <p>Начинайте обучение с раннего возраста. Социализация и базовые команды помогут вырастить воспитанную и уверенную в себе собаку.</p>
+                </div>
+                <div class="tip-card">
+                    <h3>Активность</h3>
+                    <p>Регулярные прогулки и физическая активность необходимы для здоровья собаки. Учитывайте потребности породы в нагрузках.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    
+    <footer>
+        <div class="container">
+            <p>© 2025 Информационный ресурс для любителей кошек и собак</p>
+            <p>Все права защищены</p>
+        </div>
+    </footer>
+
+    
+    <div class="back-to-top" id="backToTop">↑</div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>О кошках - Любители кошек и собак</title>
+    <link rel="stylesheet" href="css/style-cats.css">
+</head>
+<body id="cats">
+   
+    <header>
+        <div class="container">
+            <h1>Всё о кошках</h1>
+            <p>Узнайте больше о грациозных и независимых питомцах</p>
+        </div>
+    </header>
+
+   
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="index.html">Главная</a></li>
+                <li><a href="cats.html" class="active">О кошках</a></li>
+                <li><a href="dogs.html">О собаках</a></li>
+                <li><a href="about.html">О нас</a></li>
+            </ul>
+        </div>
+    </nav>
+
+   
+    <main class="container">
+       
+        <section class="general-info">
+            <h2 class="section-title">Кошки - удивительные создания</h2>
+            <div class="content-block">
+                <p>Кошки — независимые, но ласковые животные, которые отлично подходят для домашнего содержания. Они любят уют и тепло, а также способны снижать стресс у человека.</p>
+                
+                <div class="facts-grid">
+                    <div class="fact-item">
+                        <h3>Чистоплотность</h3>
+                        <p>Кошки тратят до 30% времени бодрствования на уход за шерстью</p>
+                    </div>
+                    <div class="fact-item">
+                        <h3>Коммуникация</h3>
+                        <p>Кошки используют более 100 различных звуков для общения</p>
+                    </div>
+                    <div class="fact-item">
+                        <h3>Зрение</h3>
+                        <p>Кошки видят в 6 раз лучше в темноте, чем люди</p>
+                    </div>
+                    <div class="fact-item">
+                        <h3>Сон</h3>
+                        <p>В среднем кошки спят 12-16 часов в сутки</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        
+        <section class="breeds-section">
+            <h2 class="section-title">Популярные породы кошек</h2>
+            
+            <div class="breeds-grid">
+                
+                <div class="breed-card">
+                    <div class="breed-image">
+                        <img src="https://avatars.mds.yandex.net/i?id=04e8fcfcb0fec22747fcf985c64d4a80d231f26f-4337913-images-thumbs&n=13" alt="Британская короткошёрстная">
+                    </div>
+                    <div class="breed-info">
+                        <h3>Британская короткошёрстная</h3>
+                        <p><strong>Характер:</strong> Спокойный, независимый</p>
+                        <p><strong>Размер:</strong> Средний-крупный</p>
+                        <p><strong>Уход:</strong> Минимальный</p>
+                        <p>Идеальная порода для квартирного содержания. Обладает плюшевой шерстью и уравновешенным характером.</p>
+                    </div>
+                </div>
+
+                
+                <div class="breed-card">
+                    <div class="breed-image">
+                        <img src="https://avatars.mds.yandex.net/i?id=7a11d89e9dacc8347cbad4b81020aa18739fa24e-4336910-images-thumbs&n=13" alt="Мейн-кун">
+                    </div>
+                    <div class="breed-info">
+                        <h3>Мейн-кун</h3>
+                        <p><strong>Характер:</strong> Дружелюбный, общительный</p>
+                        <p><strong>Размер:</strong> Крупный</p>
+                        <p><strong>Уход:</strong> Регулярный</p>
+                        <p>Одна из самых крупных пород кошек. Известны как "нежные гиганты" за свой добродушный характер.</p>
+                    </div>
+                </div>
+
+                
+                <div class="breed-card">
+                    <div class="breed-image">
+                        <img src="https://avatars.mds.yandex.net/i?id=d65319eecd83b89bced583b0338909d57996bc0b-16874194-images-thumbs&n=13" alt="Сиамская">
+                    </div>
+                    <div class="breed-info">
+                        <h3>Сиамская</h3>
+                        <p><strong>Характер:</strong> Активный, разговорчивый</p>
+                        <p><strong>Размер:</strong> Средний</p>
+                        <p><strong>Уход:</strong> Минимальный</p>
+                        <p>Очень общительные и "разговорчивые" кошки. Требуют много внимания и взаимодействия с хозяином.</p>
+                    </div>
+                </div>
+
+                
+                <div class="breed-card">
+                    <div class="breed-image">
+                        <img src="https://avatars.mds.yandex.net/i?id=f382e3edc5698e1ab5aac431829220550201ffa0-10114046-images-thumbs&n=13" alt="Сфинкс">
+                    </div>
+                    <div class="breed-info">
+                        <h3>Сфинкс</h3>
+                        <p><strong>Характер:</strong> Ласковый, энергичный</p>
+                        <p><strong>Размер:</strong> Средний</p>
+                        <p><strong>Уход:</strong> Специальный</p>
+                        <p>Бесшёрстная порода, требующая особого ухода за кожей. Очень теплолюбивы и привязаны к хозяину.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        
+        <section class="care-tips">
+            <h2 class="section-title">Советы по уходу за кошками</h2>
+            <div class="tips-grid">
+                <div class="tip-card">
+                    <h3>Питание</h3>
+                    <p>Кошки - облигатные хищники, поэтому их рацион должен состоять преимущественно из мяса. Обеспечьте постоянный доступ к свежей воде.</p>
+                </div>
+                <div class="tip-card">
+                    <h3>Здоровье</h3>
+                    <p>Регулярно посещайте ветеринара, делайте прививки и проводите обработку от паразитов. Следите за состоянием зубов и когтей.</p>
+                </div>
+                <div class="tip-card">
+                    <h3>Обучение</h3>
+                    <p>Приучайте кошку к лотку с раннего возраста. Используйте положительное подкрепление для обучения правильному поведению.</p>
+                </div>
+                <div class="tip-card">
+                    <h3>Активность</h3>
+                    <p>Обеспечьте кошке возможности для игр и физической активности. Игрушки, когтеточки и игровые комплексы помогут сохранить здоровье.</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    
+    <footer>
+        <div class="container">
+            <p>© 2025 Информационный ресурс для любителей кошек и собак</p>
+            <p>Все права защищены</p>
+        </div>
+    </footer>
+
+    
+    <div class="back-to-top" id="backToTop">↑</div>
+
     <script src="js/script.js"></script>
 </body>
 </html>
